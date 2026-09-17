@@ -1,0 +1,15 @@
+# Environment variables
+.env
+
+# Python cache/bytecode
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specific junk
+.DS_Store
+
+# IDE
+.vscode/
